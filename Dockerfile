@@ -3,9 +3,9 @@ FROM node:20-slim
 # Set workdir
 WORKDIR /app
 
-# Install dependencies first (better layer caching)
+# Install all dependencies (include dev deps like dotenv)
 COPY package*.json ./
-RUN npm install --production
+RUN npm install
 
 # Copy source code
 COPY . .
