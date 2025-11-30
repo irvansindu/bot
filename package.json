@@ -14,7 +14,8 @@
     "orderkuota": "^1.0.9",
     "qrcode": "^1.5.3",
     "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.23.0"
+    "whatsapp-web.js": "^1.23.0",
+    "midtrans-client": "^1.4.3"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"

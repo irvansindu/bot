@@ -11,8 +11,8 @@ RUN npm install
 COPY . .
 
 # Install Chromium for whatsapp-web.js / Puppeteer
-RUN apt-get update && apt-get install -y \
-    chromium \
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    chromium=124.0.6367.60-1~deb12u1 \
   && rm -rf /var/lib/apt/lists/*
 
 # whatsapp-web.js uses puppeteer under the hood; point to system Chromium

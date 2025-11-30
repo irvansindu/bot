@@ -64,7 +64,7 @@ Send the following commands to the bot:
 
 Create a `.env` file in the root directory with the following variables:
 
-```
+```env
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/whatsapp-order-bot
 MIDTRANS_SERVER_KEY=your_midtrans_server_key
