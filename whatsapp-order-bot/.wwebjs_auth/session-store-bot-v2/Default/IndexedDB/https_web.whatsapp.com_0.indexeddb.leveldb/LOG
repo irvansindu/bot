@@ -1,3 +1,14 @@
 2025/12/01-02:27:18.246 4f44 Reusing MANIFEST C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session-store-bot-v2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
 2025/12/01-02:27:18.274 4f44 Recovering log #2117
 2025/12/01-02:27:18.657 4f44 Reusing old log C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session-store-bot-v2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002117.log 
+2025/12/01-02:27:24.788 4f44 Level-0 table #2139: started
+2025/12/01-02:27:24.862 4f44 Level-0 table #2139: 1055618 bytes OK
+2025/12/01-02:27:24.867 4f44 Delete type=0 #2117
+2025/12/01-02:27:24.869 4f44 Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at '\x00 \x00\x00\x05' @ 5533083 : 1
+2025/12/01-02:27:24.869 4f44 Compacting 1@0 + 0@1 files
+2025/12/01-02:27:25.017 4f44 Generated table #2140@0: 16599 keys, 277282 bytes
+2025/12/01-02:27:25.047 4f44 Generated table #2141@0: 1583 keys, 98126 bytes
+2025/12/01-02:27:25.047 4f44 Compacted 1@0 + 0@1 files => 375408 bytes
+2025/12/01-02:27:25.069 4f44 compacted to: files[ 0 2 17 0 0 0 0 ]
+2025/12/01-02:27:25.070 4f44 Delete type=2 #2139
+2025/12/01-02:27:25.071 4f44 Manual compaction at level-0 from '\x00 \x00\x00\x05' @ 5533083 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)
