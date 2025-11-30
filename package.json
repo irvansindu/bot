@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-order-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk otomatisasi pemesanan dan pembayaran",
+  "main": "whatsapp-order-bot/index.js",
+  "scripts": {
+    "start": "node whatsapp-order-bot/index.js",
+    "dev": "nodemon whatsapp-order-bot/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "orderkuota": "^1.0.9",
+    "qrcode": "^1.5.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

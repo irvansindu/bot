@@ -1,0 +1,72 @@
+2025/11/26-21:15:06.902 ea4 Reusing MANIFEST C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/26-21:15:06.905 ea4 Recovering log #1375
+2025/11/26-21:15:07.150 ea4 Reusing old log C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001375.log 
+2025/11/26-21:15:09.412 ea4 Level-0 table #1404: started
+2025/11/26-21:15:09.467 ea4 Level-0 table #1404: 932466 bytes OK
+2025/11/26-21:15:09.472 ea4 Delete type=0 #1375
+2025/11/26-21:15:09.473 ea4 Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at '\x008\x00\x00\x05' @ 4634388 : 1
+2025/11/26-21:15:09.473 ea4 Compacting 1@0 + 0@1 files
+2025/11/26-21:15:09.533 ea4 Generated table #1405@0: 19890 keys, 383272 bytes
+2025/11/26-21:15:09.560 ea4 Generated table #1406@0: 639 keys, 39662 bytes
+2025/11/26-21:15:09.569 ea4 Generated table #1407@0: 178 keys, 5117 bytes
+2025/11/26-21:15:09.569 ea4 Compacted 1@0 + 0@1 files => 428051 bytes
+2025/11/26-21:15:09.573 ea4 compacted to: files[ 0 3 41 0 0 0 0 ]
+2025/11/26-21:15:09.575 ea4 Delete type=2 #1404
+2025/11/26-21:15:09.576 ea4 Manual compaction at level-0 from '\x008\x00\x00\x05' @ 4634388 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/26-21:15:14.528 ea4 Compacting 1@1 + 10@2 files
+2025/11/26-21:15:14.869 ea4 Generated table #1408@1: 29507 keys, 2219934 bytes
+2025/11/26-21:15:15.254 ea4 Generated table #1409@1: 27596 keys, 2265552 bytes
+2025/11/26-21:15:15.495 ea4 Generated table #1410@1: 28458 keys, 2257809 bytes
+2025/11/26-21:15:15.710 ea4 Generated table #1411@1: 31217 keys, 2226064 bytes
+2025/11/26-21:15:15.892 ea4 Generated table #1412@1: 10324 keys, 2157007 bytes
+2025/11/26-21:15:16.127 ea4 Generated table #1413@1: 10792 keys, 2134972 bytes
+2025/11/26-21:15:16.482 ea4 Generated table #1414@1: 66416 keys, 2205432 bytes
+2025/11/26-21:15:16.878 ea4 Generated table #1415@1: 101304 keys, 2250734 bytes
+2025/11/26-21:15:17.254 ea4 Generated table #1416@1: 101423 keys, 2251856 bytes
+2025/11/26-21:15:17.677 ea4 Generated table #1417@1: 100454 keys, 2251658 bytes
+2025/11/26-21:15:17.775 ea4 Generated table #1418@1: 358 keys, 8198 bytes
+2025/11/26-21:15:17.775 ea4 Compacted 1@1 + 10@2 files => 22229216 bytes
+2025/11/26-21:15:17.780 ea4 compacted to: files[ 0 2 42 0 0 0 0 ]
+2025/11/26-21:15:17.782 ea4 Compacting 1@1 + 8@2 files
+2025/11/26-21:15:18.209 ea4 Generated table #1419@1: 90266 keys, 2240488 bytes
+2025/11/26-21:15:18.533 ea4 Generated table #1420@1: 38342 keys, 2217290 bytes
+2025/11/26-21:15:18.850 ea4 Generated table #1421@1: 56961 keys, 2225286 bytes
+2025/11/26-21:15:18.958 ea4 Generated table #1422@1: 5114 keys, 2166479 bytes
+2025/11/26-21:15:19.127 ea4 Generated table #1423@1: 2271 keys, 2157274 bytes
+2025/11/26-21:15:19.248 ea4 Generated table #1424@1: 2822 keys, 2154301 bytes
+2025/11/26-21:15:19.369 ea4 Generated table #1425@1: 3159 keys, 2158424 bytes
+2025/11/26-21:15:19.492 ea4 Generated table #1426@1: 2849 keys, 2158506 bytes
+2025/11/26-21:15:19.602 ea4 Generated table #1427@1: 114 keys, 102797 bytes
+2025/11/26-21:15:19.603 ea4 Compacted 1@1 + 8@2 files => 17580845 bytes
+2025/11/26-21:15:19.606 ea4 compacted to: files[ 0 1 43 0 0 0 0 ]
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1380
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1381
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1382
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1383
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1384
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1385
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1386
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1387
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1388
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1389
+2025/11/26-21:15:19.608 ea4 Delete type=2 #1406
+2025/11/26-21:15:36.701 1ec8 Compacting 1@1 + 4@2 files
+2025/11/26-21:15:37.151 1ec8 Generated table #1428@1: 100415 keys, 2249019 bytes
+2025/11/26-21:15:37.730 1ec8 Generated table #1429@1: 100440 keys, 2249829 bytes
+2025/11/26-21:15:37.771 1ec8 Generated table #1430@1: 1500 keys, 40748 bytes
+2025/11/26-21:15:37.771 1ec8 Compacted 1@1 + 4@2 files => 4539596 bytes
+2025/11/26-21:15:37.774 1ec8 compacted to: files[ 0 0 42 0 0 0 0 ]
+2025/11/26-21:15:37.775 1ec8 Delete type=2 #1357
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1390
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1391
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1392
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1393
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1394
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1395
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1396
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1397
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1398
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1400
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1401
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1405
+2025/11/26-21:15:37.779 1ec8 Delete type=2 #1407

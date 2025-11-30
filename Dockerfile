@@ -1,0 +1,25 @@
+FROM node:20-slim
+
+# Set workdir
+WORKDIR /app
+
+# Install dependencies first (better layer caching)
+COPY package*.json ./
+RUN npm install --production
+
+# Copy source code
+COPY . .
+
+# Install Chromium for whatsapp-web.js / Puppeteer
+RUN apt-get update && apt-get install -y \
+    chromium \
+  && rm -rf /var/lib/apt/lists/*
+
+# whatsapp-web.js uses puppeteer under the hood; point to system Chromium
+ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
+
+# Expose Express port (optional, for health check / web endpoint)
+EXPOSE 3000
+
+# Start the WhatsApp bot
+CMD ["node", "whatsapp-order-bot/index.js"]
