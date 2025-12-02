@@ -1,7 +1,3 @@
-2025/12/01-02:29:50.563 6ac Creating DB C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session-store-bot-v2\Default\Local Storage\leveldb since it was missing.
-2025/12/01-02:29:50.612 6ac Reusing MANIFEST C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session-store-bot-v2\Default\Local Storage\leveldb/MANIFEST-000001
-2025/12/01-02:29:50.613 6ac Recovering log #10
-2025/12/01-02:29:50.613 6ac Reusing old log C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session-store-bot-v2\Default\Local Storage\leveldb/000010.log 
-2025/12/01-02:29:50.614 6ac Delete type=2 #5
-2025/12/01-02:29:50.614 6ac Delete type=2 #8
-2025/12/01-02:29:50.614 6ac Delete type=2 #11
+2025/12/01-02:33:24.809 16fc Reusing MANIFEST C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session-store-bot-v2\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/01-02:33:24.811 16fc Recovering log #10
+2025/12/01-02:33:24.812 16fc Reusing old log C:\Users\LENOVO ThinkPad A485\CascadeProjects\windsurf-project-17\whatsapp-order-bot\.wwebjs_auth\session-store-bot-v2\Default\Local Storage\leveldb/000010.log 
